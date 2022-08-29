@@ -15,10 +15,6 @@
   100%{ width: 100; } 
 } 
 
-@keyframes blink {
-  to{opacity: .0;}
-}
-
 @keyframes scan {
 	from { top: 0 }
 	to { top: 100% }
