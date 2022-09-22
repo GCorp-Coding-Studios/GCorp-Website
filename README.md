@@ -1,4 +1,4 @@
 # GCorp Confidential
-this is internal code for the GCorp Web project no need to explain just dont break anything
+FOR INTERNAL AFFAIRS ONLY
 
--X5
+GXCorp main homepage project
